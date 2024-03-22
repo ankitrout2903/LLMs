@@ -21,6 +21,8 @@ This project is a Question-Answer Pair Generator with Zephyr-7B, which is a tool
 4. Download the AI model from [here](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/blob/main/mistral-7b-instruct-v0.1.Q4_K_S.gguf) and place it in the `backend` directory.
 5. Run `python app.py` to start the backend server.
 
+6. In case you want to test only the prompt through Open AI API run `python test_openai_app.py` start backend server of openai version of the app.
+
 ### Usage
 1. After starting both the frontend and backend servers, visit `http://localhost:3000` in your web browser.
 2. Upload a PDF file containing study material using the provided file upload input.
