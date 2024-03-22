@@ -34,7 +34,9 @@ This project is a Question-Answer Pair Generator with Zephyr-7B, which is a tool
 - Mistral-7B AI Model
 - React
 - TypeScript
-- ChromaDB
+- Langchain
+- FAISS(vectore db)
+- streamlit
 
 ### Credits
 This project utilizes the LangChain library for natural language processing tasks.
