@@ -1,7 +1,7 @@
 # Question-Answer-Generation-App-using-Mistral-7B
 Question Answer Generation App using Mistral 7B, Langchain, and FastAPI.
 
-
+https://www.loom.com/share/f9a5a625d79b4f7381a54126e0b740e2?sid=98f1a0dc-f92e-4d8b-9d09-5ece38302ce7
 ## Project Name
 
 ### Description
