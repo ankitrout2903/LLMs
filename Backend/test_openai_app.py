@@ -181,7 +181,7 @@ def get_csv (file_path):
 
 @app.get("/")
 async def index(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+    return templates.TemplateResponse("test.html", {"request": request})
 
 @app.post("/upload")
 async def chat(request: Request, pdf_file: bytes = File(), filename: str = Form(...)):
