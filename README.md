@@ -40,6 +40,7 @@ This project is a Question-Answer Pair Generator with Zephyr-7B, which is a tool
 - FAISS(similar search)
 - streamlit
 - ChromaDB(vector db)
+- Docker
 
 ### Credits
 This project utilizes the LangChain library for natural language processing tasks.
