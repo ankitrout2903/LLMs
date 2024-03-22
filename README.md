@@ -37,7 +37,7 @@ This project is a Question-Answer Pair Generator with Zephyr-7B, which is a tool
 - React
 - TypeScript
 - Langchain
-- FAISS(vectore db)
+- FAISS(similar search)
 - streamlit
 - ChromaDB(vector db)
 
